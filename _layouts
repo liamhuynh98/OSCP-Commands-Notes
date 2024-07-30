@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <!-- Update the CSS link to reflect its location in the root directory -->
+  <link rel="stylesheet" href="{{ "/main.css" | relative_url }}">
 </head>
 <body>
   <header>
