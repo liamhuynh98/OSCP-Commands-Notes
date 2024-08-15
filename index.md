@@ -1,5 +1,3 @@
-# OSCP Commands and Notes
-
 ## Commands
 
 ### Basic Commands
@@ -15,3 +13,5 @@
 - Description: Network scanning tool
 - Usage: `nmap [options] [target]`
 
+#### Initial Attack Vector LookOut
+#### Privilege Escalation Vector
