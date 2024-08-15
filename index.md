@@ -14,4 +14,16 @@
 - Usage: `nmap [options] [target]`
 
 #### Initial Attack Vector LookOut
+ - port 21
+ - port 22
+ - port 80
+ - port 443
+ 
 #### Privilege Escalation Vector
+- Unquoted File Path
+-------------------------------------------------------------------------------------------------------------------------------------------
+#### File Transfer Tools 
+##### Linux
+##### Windows
+
+
